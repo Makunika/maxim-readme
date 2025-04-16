@@ -47,8 +47,6 @@
                 "xn--80asehdb",
                 "xn--p1acf",
                 "xn--p1ai",
-                "google.com",
-                "gstatic.com",
                 "yahoo",
                 "bing",
                 "tineye",
